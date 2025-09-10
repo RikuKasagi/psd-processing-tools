@@ -1,0 +1,4 @@
+psd-tools>=1.9.0
+pytoshop>=1.2.0
+Pillow>=9.0.0
+numpy>=1.21.0
