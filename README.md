@@ -111,9 +111,9 @@ psd-processing-tools/
 
 ### Common Issues
 
-**FileNotFoundError**: Check if the PSD file path is correct
-**ValueError: PNG以外が含まれています**: Ensure all input files are PNG format
-**ValueError: 画像サイズが一致していません**: All PNG images must have the same dimensions
+- **FileNotFoundError**: Check if the PSD file path is correct
+- **ValueError: PNG以外が含まれています**: Ensure all input files are PNG format
+- **ValueError: 画像サイズが一致していません**: All PNG images must have the same dimensions
 
 ## 🤝 Contributing
 
